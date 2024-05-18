@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadirerdemci&label=Profile%20views&color=0e75b6&style=flat" alt="kadirerdemci" /> </p>
 
-- 🔭 I’m currently working on **laravel and nodejs**
+- 🔭 I’m currently working on **.NET and nodejs**
 
 - 🌱 I’m currently learning **laravel**
 
-- 💬 Ask me about **nodejs**
+- 💬 Ask me about **C#**
 
 - 📫 How to reach me **kadirerdemci3@gmail.com**
 
